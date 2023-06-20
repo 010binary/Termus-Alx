@@ -1,6 +1,6 @@
 # Installation and setup step for termux
 
-### 1.-> First download the Termux app with the link provided below please do not download it from the store cause many features are restricted in that verison. `[Download Termux](https://drive.google.com/drive/folders/100vDBFAnnHc5d2xVcQKZsCPLF0kC_IbS)`
+### 1.-> First download the Termux app with the link provided below please do not download it from the store cause many features are restricted in that verison. [Download Termux](https://drive.google.com/drive/folders/100vDBFAnnHc5d2xVcQKZsCPLF0kC_IbS)
 
 ### 2.-> Update termux: `pkg update -y`
 
