@@ -12,11 +12,8 @@
 
 ### 4.-> Install git: `pkg install git -y`
 
-### 4.-> Install a text-editior of your choice like vim or emacs: `pkg install vim -y` or `pkg install emacs -y`
-
-         you can also install both to enjoy the best of both worlds 😂.
-
-
+### 4.-> Install a text-editior of your choice like vim or emacs: `pkg install vim -y` or `pkg install emacs -y` 
+you can also install both to enjoy the best of both worlds.
 ### 4.-> To Install a C/C++/C# Complier: `pkg install clang -y`
 
 ### 4.-> To Install a Python interpreter: `pkg install python3 -y`
@@ -40,3 +37,4 @@
 ### 6.-> Install wget: `pkg install wget -y`
 
          This is subjective, if you want to install and use a linux distro in your termux then this is needed else you don't need it.
+
