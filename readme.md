@@ -38,5 +38,5 @@ you can also install both to enjoy the best of both worlds.
 
          This is subjective, if you want to install and use a linux distro in your termux then this is needed else you don't need it.
 
-# If you joyed this please follow me on github and [TWitter](https://twitter.com/August13200296) thank you and also check out the md file for installing ubuntu and configuring VIM and Emacs
+# If you joyed this please follow me on github and [Twitter](https://twitter.com/August13200296) thank you and also check out the md file for installing ubuntu and configuring VIM and Emacs
 
